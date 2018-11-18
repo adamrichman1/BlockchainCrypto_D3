@@ -1,4 +1,4 @@
-# CS1699_D3
+# CS1699 Deliverable 3: Non-SHA256 Puzzle
 
 ### Author
 - Adam Richman
